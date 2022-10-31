@@ -1,0 +1,134 @@
+
+  input[type="text"],
+  input[type="password"] {
+    height: 50px;
+    width: 300px;
+    border: 5px solid rgba(245, 235, 235, 0.2);
+    font-family: sans-serif;
+  }
+  
+  .button-container {
+    display: flex;
+    width: 94%;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 3%;
+    
+   
+  }
+  
+  .login-form {
+    
+    background-image: url(images/والپیپر-بنفش-15.jpg);
+    font-family: sans-serif;
+    padding:6.5rem;
+    background-color: #f3ddfc;
+    margin-left: 32.5%;
+    width: 34.5%;
+    box-shadow: 0 4px 8px 0 rgba(142, 79, 243, 0.2), 0 6px 20px 0 rgba(160, 56, 56, 0.19);
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }
+  
+  .main{
+    text-align:center ;
+     justify-content: center; 
+     display: flex; 
+    padding: 90px 0 90px 0px ;
+    background-color: rgb(183, 80, 162);
+  }
+  .sub-main{
+    display: flex; 
+     justify-content:center ; 
+    height: 550px;
+    width: 35%;
+    box-shadow:11px 12px 13px 12px rgb(207, 207, 207) ;
+    padding-top: 30px;
+  border-radius: 60px;
+  background-color: white;
+  }
+  .imgs{
+    padding-top:40px ;
+  justify-content: center;
+  display: flex;
+  }
+  .container-image{
+    background-color: rgb(223,221,221) ;
+    border-radius : 150px ;
+    align-items : center ;
+     display:flex;
+    height : 115px;
+    width : 115px ;
+  }
+  .profile{
+    height: 60px ;
+    width: 60px;
+    border-radius: 150px;
+  }
+   .input{
+    width: 100px ;
+    height: 100px;
+    border-radius:60px ;
+    box-shadow: inset 20px 20px 25px 0px #888;
+    border: none ;
+    outline: none;
+    background-color: rgb(228, 217, 217);
+  } 
+  
+  .email{
+    height:50px ;
+    width: 50px;
+    padding: 5px 0 0 25px;
+  
+  }
+  .pass{
+    height:50px;
+    width:50px;
+  
+  }
+  .name{
+    padding-left: 20px;
+    font-size: 20px;
+  }
+  .second-input{
+    padding-top: 20px;
+  }
+  button{
+  width: 380px;
+  height: 50px;
+  border-radius: 60px;
+  background-color: #b103fc;
+  color: white;
+  font-size: 25px;
+  border: none;
+  }
+  .login-button{
+    padding-top: 25px;
+  }
+  .link{
+    font-size: 20px;
+    font-weight:300 ;
+  }
+  a{
+    color:rgb(100, 85, 214)
+  }
+  .all{
+    justify-content: center;
+  
+  }
+ 
